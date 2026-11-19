@@ -11,7 +11,9 @@
 原創專案網址：https://github.com/jkawamata/rittai-guriguri-ipad
 
 原創專案運行網址：
+
 日本語版 https://jkawamata.github.io/rittai-guriguri-ipad/
+
 English version https://jkawamata.github.io/rittai-guriguri-ipad/rittai-guriguri_v1_07_en.html
 
 1996 年前後開發，最初運行於 MS-DOS 平台，作為第三角法正投影圖的教學輔助應用程式。
