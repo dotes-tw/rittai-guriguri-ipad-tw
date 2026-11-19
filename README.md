@@ -10,6 +10,10 @@
 
 原創專案網址：https://github.com/jkawamata/rittai-guriguri-ipad
 
+原創專案運行網址：
+日本語版 https://jkawamata.github.io/rittai-guriguri-ipad/
+English version https://jkawamata.github.io/rittai-guriguri-ipad/rittai-guriguri_v1_07_en.html
+
 1996 年前後開發，最初運行於 MS-DOS 平台，作為第三角法正投影圖的教學輔助應用程式。
 
 2026 年重製版： Vibe Coding & ChatGPT 5.5
@@ -18,7 +22,8 @@
 
 繁體中文化：許仁傑 (Jen-Chieh Hsu)
 
-繁體中文化專案網址：https://dotes-tw.github.io/rittai-guriguri-ipad-tw/
+繁體中文化專案運行網址：
+https://dotes-tw.github.io/rittai-guriguri-ipad-tw/
 
 ✨ 主要功能
 四視圖模式： 同時顯示俯視圖、正視圖與側視圖，完美對應第三角法教學。
