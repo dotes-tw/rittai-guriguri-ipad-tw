@@ -8,7 +8,7 @@
 
 原創作者： 川俣純 (Jun Kawamata)
 
-原創專案網址： https://github.com/jkawamata/rittai-guriguri-ipad
+原創專案網址：https://github.com/jkawamata/rittai-guriguri-ipad
 
 1996 年前後開發，最初運行於 MS-DOS 平台，作為第三角法正投影圖的教學輔助應用程式。
 
@@ -16,8 +16,9 @@
 
 於 2026 年 5 月利用現代技術與高階 AI 協作重製，賦予經典工具新的生命。
 
-繁體中文化： 許仁傑 (Jen-Chieh Hsu)
+繁體中文化：許仁傑 (Jen-Chieh Hsu)
 
+繁體中文化專案網址：https://dotes-tw.github.io/rittai-guriguri-ipad-tw/
 
 ✨ 主要功能
 四視圖模式： 同時顯示俯視圖、正視圖與側視圖，完美對應第三角法教學。
